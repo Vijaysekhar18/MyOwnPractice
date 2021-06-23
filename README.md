@@ -1,2 +1,3 @@
 # MyOwnPractice
-My own Practice 
+
+My personal practice and projects
